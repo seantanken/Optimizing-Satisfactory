@@ -4,11 +4,12 @@ My personal project to optimize the game Satisfactory and discover the maximum q
 ## Process:  
 - Record the maximum yields of all resources in the Satisfactory world  
 - Record the base recipies for all items and machines in the game  
--  values to all items based on the complexity of the base recipies  
+- Assign values to all items based on the complexity of the base recipies  
 - Utilizing as much of the limited resources as possible, maximize the produced yeild based on assigned complexity values  
 
 ### Considerations:  
 - This project will only consider recipies that can be automated in a machine and does not include seasonal recipies or recipies that use resources gathered by hand (ex: leaves or animal remains)  
+- All rates are items produced per minute
 
 ### Assigned Item Values (AIV):  
 In order to ensure that the items produced for this project are as complex as possible, items will be assigned a value based on how intricate and advanced they are.  
